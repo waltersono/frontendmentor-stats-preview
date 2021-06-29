@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/waltersono/frontendmentor-stats-preview](https://github.com/waltersono/frontendmentor-stats-preview)
-- Live Site URL: [https://waltersono.github.io/frontendmentor-stats-preview/](https://waltersono.github.io/frontendmentor-stats-preview/)
+- Solution URL: [Project source code](https://github.com/waltersono/frontendmentor-stats-preview)
+- Live Site URL: [Live project](https://waltersono.github.io/frontendmentor-stats-preview/)
 
 ## My process
 
@@ -38,6 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Media Queries
 
 
 ## Author
